@@ -1,0 +1,2 @@
+2023-03-29 15:05:12.603 +06:00 [INF] UpdateProfessorReviewDeleted() - professorId: 1
+2023-03-29 16:26:12.381 +06:00 [INF] UpdateProfessorReviewDeleted() - professorId: 1
